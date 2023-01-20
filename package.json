@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-dynamic-useragent",
+  "version": "1.0.0-dev",
+  "description": "Cordova Dynamic UserAgent Plugin",
+  "cordova": {
+    "id": "cordova-plugin-dynamic-useragent",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": "github:erisu/cordova-plugin-dynamic-useragent",
+  "bugs": "https://github.com/erisu/cordova-plugin-dynamic-useragent/issues",
+  "keywords": [
+    "cordova",
+    "device",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Apache Software Foundation",
+  "license": "Apache-2.0",
+  "engines": {
+    "cordovaDependencies": {
+      "1.0.0": {
+        "cordova": ">100"
+      }
+    }
+  }
+}
